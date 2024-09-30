@@ -1,5 +1,6 @@
 # Common O(1) Mathematical Formulas for Algorithmic Problems
 
+
 | **Formula**                     | **What It Solves**                           | **Example**                                          |
 |----------------------------------|----------------------------------------------|------------------------------------------------------|
 | `n * (n + 1) // 2`               | Sum of first `n` natural numbers             | For `1, 2, 3, 4, 5`: <br> `sum = 5 * (5 + 1) // 2` <br> `sum = 15` |
