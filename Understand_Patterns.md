@@ -1,8 +1,7 @@
+<div align="center">
+   
 # Data Structures and Algorithms (DSA) Quick Reference Guide
-
-This guide provides quick tips for selecting the appropriate algorithms and data structures based on common problem scenarios, along with specific algorithmic patterns and examples. Use it as a reference to approach different types of DSA problems effectively.
-
----
+</div>
 
 ## Table of Contents
 
